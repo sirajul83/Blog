@@ -1,0 +1,14 @@
+.wrapper{
+	width: 70%;
+	margin: 0 auto;
+	padding: 10px;
+}
+.wrapper_view{
+	width: 98%;
+	margin: 0 auto;
+}
+.login_area{
+	width: 50%;
+	margin: 0 auto;
+	padding: 50px;
+}

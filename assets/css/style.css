@@ -1,0 +1,50 @@
+body{
+	margin:0px;
+	padding:0px;
+	}
+.navbar-default {
+   background:#5E5E5E;
+    border: none;
+	border-radius:0%;
+}
+.navbar-default .navbar-nav > li > a {
+	color:#FFFFFF;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:14px;
+	text-transform:uppercase;
+}
+.navbar-default .navbar-nav > li > a:hover{
+	background-color:#E5E5E5;
+	}
+.logo_img{
+	width:40px;
+	height:40px;
+	margin-top:-10px;
+	}
+#home{
+	overflow:hidden;
+	margin-top:-15px;
+	}
+.blog_img img{
+	width:400px;
+	height:350px;
+	}
+.blog_img{
+	height:350px;
+	margin-top:30px;
+	}
+
+.blog_content{
+	height:350px;
+	background-color:#F5F5F5;
+	margin-top:35px;
+	padding:10px;
+	}
+.footer_area{
+	height:50px;
+	background-color:#111111;
+	text-align:center;
+	margin-top:35px;
+	color:#f8f8f8;
+	padding-top:5px;
+	}
